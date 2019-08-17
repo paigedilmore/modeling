@@ -1,3 +1,3 @@
 # modeling
-Repo dedicated to practicing statistical modeling techniques, primarily with housing industry and financial data
+Repo dedicated to practicing statistical modeling techniques, for learning, experimenting, and discovering the cool stuff. 
 
